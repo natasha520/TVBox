@@ -41,13 +41,6 @@
       "api": "csp_App3Q"
     },
     {
-      "key": "韩圈",
-      "name": "韩圈｜APP",
-      "type": 3,
-      "api": "csp_Hxq",
-      "ext": "http://www.小不点.com/api/2026/fishhxq.php"
-    },
-    {
       "key": "听心99",
       "name": "听心｜APP",
       "type": 3,
@@ -590,6 +583,12 @@
        "type": 0,
        "ua": "okhttp",
        "url": "file:///storage/emulated/0/TV/天命.txt"
+    },
+    {
+       "name": "✨天命(Github)🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/TVBox/refs/heads/main/%E5%A4%A9%E5%91%BD.txt"
     },
     {
        "name": "🐬夜色🔞",
