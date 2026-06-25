@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://github.com/natasha520/TVBox/blob/main/spider.jar",
+  "spider": "https://cnb.cool/sky-007/XS/-/commit-assets/download/4e035c6845844daa56808e4ccac371f4f837bd2c/spider.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
     {
@@ -100,19 +100,6 @@
       "name": "♨️枫叶｜4K线路",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
-    },
-    {
-      "key": "动漫天堂",
-      "name": "♨️漫堂｜4K线路",
-      "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/500.txt",
-        "key": "1vi33w2pAHEm8Y6U",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
     },
     {
       "key": "火云",
@@ -221,6 +208,19 @@
       }
     },
     {
+      "key": "动漫天堂",
+      "name": "♨️动漫｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/500.txt",
+        "key": "1vi33w2pAHEm8Y6U",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "盘它",
       "name": "♨️盘它｜4K视轨",
       "type": 3,
@@ -261,13 +261,6 @@
       "api": "csp_App3Q"
     },
     {
-      "key": "韩圈",
-      "name": "🌀韩圈｜1920",
-      "type": 3,
-      "api": "csp_Hxq",
-      "ext": "http://www.小不点.com/api/2026/fishhxq.php"
-    },
-    {
       "key": "久久",
       "name": "🌀久久｜1920",
       "type": 3,
@@ -286,6 +279,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://qpcj.69mini.com/api.php/app/"
+    },
+    {
+      "key": "韩圈",
+      "name": "🌀韩圈｜1920",
+      "type": 3,
+      "api": "csp_Hxq",
+      "ext": "http://www.小不点.com/api/2026/fishhxq.php"
     },
     {
       "key": "蓝鹰",
