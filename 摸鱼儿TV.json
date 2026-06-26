@@ -3,13 +3,6 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
     {
-      "key": "Nostr",
-      "name": "Nostr",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "https://cnb.cool/fish2018/lib/-/git/raw/main/nostr.min.html"
-    },
-    {
       "key": "Douban",
       "name": "豆瓣┃首页",
       "type": 3,
@@ -149,14 +142,6 @@
       "ext": "https://vip.wwgz.cn:5200"
     },
     {
-      "key": "wencai",
-      "name": "✏️┃文才┃影视",
-      "type": 3,
-      "api": "csp_WenCai",
-      "searchable": 1,
-      "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-    },
-    {
       "key": "CZ",
       "name": "🏭┃厂长┃影视",
       "type": 3,
@@ -165,6 +150,14 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.czzymovie.com"
+    },
+    {
+      "key": "wencai",
+      "name": "✏️┃文才┃影视",
+      "type": 3,
+      "api": "csp_WenCai",
+      "searchable": 1,
+      "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
     },
     {
       "key": "Guazi",
@@ -190,15 +183,6 @@
       "ext": "https://www.mqtv.cc"
     },
     {
-      "key": "Duboku",
-      "name": "🎯┃独播┃影视",
-      "type": 3,
-      "api": "csp_Duboku",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
       "key": "SaoHuo",
       "name": "🌶️┃骚火┃影视",
       "type": 3,
@@ -207,6 +191,15 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://shdy5.us"
+    },
+    {
+      "key": "Duboku",
+      "name": "🎯┃独播┃影视",
+      "type": 3,
+      "api": "csp_Duboku",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "fishhxq",
