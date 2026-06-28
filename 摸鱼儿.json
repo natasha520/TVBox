@@ -1,14 +1,7 @@
 {
-  "spider": "https://cnb.cool/sky-007/Fish/-/commit-assets/download/96b03325579d3fc6194f8ce1a04d8bf33bf7de46/fish06240430.jar;md5;590a8a9d14a0f543db65aec379c717b5",
+  "spider": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260627/XANl/fish06271807.jar;md5;06d26480d8bb715c9927eab913eb1abe",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
-    {
-      "key": "Nostr",
-      "name": "Nostr",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "https://cnb.cool/fish2018/lib/-/git/raw/main/nostr.min.html"
-    },
     {
       "key": "Douban",
       "name": "豆瓣┃首页",
@@ -53,54 +46,6 @@
       "filterable": 1
     },
     {
-      "key": "咕噜",
-      "name": "😊┃咕噜┃4K",
-      "type": 3,
-      "api": "csp_App88",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "AdKB13JYT+KShEXeXshxmMWRT1Sn+ikrYTY0hJJEvllJIC+pfz8pVjudppyXXOaApKEsVd2KKUO83friKPgQW7FlWNT5m25tP2dlrOIZ1IMdqVOK1vOkVMuCcxuN1JU8nUgmJBiD9h1VorEzK4/aNB1Bn2NPZIqE4omLokMXQ/raDxJgoy+8o3bBg7N6YE6rbQo1Z+jCNnjJjxy+9L4JLnXWah6e00b8gXC2hXdpsqCaPmUhk2cY9g+9wB5aUWqwu/hoNd+QJFjvIB1UsJb9tmDqvc7GlNOfX6hs3aXANbfU92sNCLgUT3YyU13w3ZIXFrswsczqpBBWrMnwRoqD8omDLpW3Ckx75e2GJvjhYSTzlaGtkrMMiO78vQZg9Gp2D3RuNAiMyeeFwpXatWpfk2xzNaXSuhCY7ch8n8PlqwWfvEGj4MFhChqaqt5oMiLxGg=="
-    },
-    {
-      "key": "huaisang",
-      "name": "🎄┃怀桑┃4K",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
-    },
-    {
-      "key": "景仪",
-      "name": "🍑┃景仪┃4K",
-      "type": 3,
-      "api": "csp_App88",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "AScEBDU8ZGTviWgGR4VE0GGkVwxm9FRojDfGdLd7Uq6yQW7ma68i5+t2StAnXVayevGqI3Kb0rJi2eqa1R3PW9cxHiFDbXAhtGajyY69GUpDZQ615h6l9jBlh/RMkOo3RfAvtXJdZasUTDhxflfJPCn0T5P68L/XHUV9ylgYmABoOSghqLVoMUNWDS5E2PAMVkm39vpIJOyKNEIhVd3EQmPxDSjSoDE56akhNdBPWsT+tZVbLO8rEccdRYGvxYsXmVjhxaXhmzQEoEme5LF/0+x+M2A880NZ5akhrKIl5ZjfREZCgQ6FClx7+L8f8fb2VNiLtFu5538MrSRozjub6WRKe1m5OOdgdOTsAXJXw5QG5IQ/Y/i9VBZTZUjqP+0TpP4h92QjLynjJAFzwSr3bAOOIvEJW2LsK+hocK72wpyVG93vl42XQpU5s95dAVJOOOnbawZUsOq8a0ctuSsSdWQ="
-    },
-    {
-      "key": "枫眠",
-      "name": "🌙┃枫眠┃4K",
-      "type": 3,
-      "api": "csp_App88",
-      "ext": "AdzbT8Ti+fGJ2PrJDEahdT7+zU3sFruyF0fAaUTWAUOCrbG/s0KhC5zQusyXAkmDYai/yhecQAtwKkDfTqbVCQT15T0FDK1GX9GLxT9V3XyFRDT0ATcwcFfw5joxSB+YLlez1nGpT2AW5KomI3yNv3ORTd4B3NqAcM34Cioc6+xwfj3HJ4JO6kQvv4solNApeP7CqF/Ecpt1BCgvvPzswMOr+kgVG/Iu8btrVQFO+pRpY7cfpc/Y59ZqaJlrCTDNLxgwuG20RZ9gVWsW+vd3A9lRgeTiJ39vJPoK46+9LnYGWU9dlDR1qRg4y5ILVQjEnT4el2cKSZexf7nrXHVfF3nOmHH/w/R/OSGllwUB7FCHDMc7eDY7haDYHWAQpEmcn4+BfbC4cipsdZ+nVieVVuuaWSF9s+0xYPWdSYLJMxApplTYkO+/h5z9atdURJUMGQ=="
-    },
-    {
-      "key": "悯善",
-      "name": "🍉┃悯善┃4K",
-      "type": 3,
-      "api": "csp_App88",
-      "ext": "AY/LmvuAAyhXffcGv5StyHm1MkGdY4inQLRC3KICnxUJBpq0d5dLhvE0+MW8XruH+M/Q/Ruqd6NayN9rihHGuotzXSTrDHgoZ2/dm2JlJ7GYOYfBorPhMPjuOhTNMg9w/J6oP4DXluvDpXNj9uOKq7g/Cx7vrKF6utOSaE1gUgDQwT251mOGTzGsd3ZrtEeepgI6hOdB2gJ4hHRumNhlbVtWDdpnVMYvhCIuH2HUqJFZWM5T+gEZTMLfeUEJt7ScfaQp90qNZID1YNo/tQOaFLGN12o4CkPtCNoYs+emjhVVqIjJzgfplCPIEyjRADqhur0c48FwCiJyp/XGZFmsMJaPKqvOkO+0H5YMKsR+EMmXCr6n0n1VnwGGpYl3maiq1SB78yDnh16291IjwXdERP1csTe41Vg3ppIixtk6q1etAikUle+6fjSFGvAvDYNr2Q=="
-    },
-    {
-      "key": "长泽",
-      "name": "😗┃长泽┃4K",
-      "type": 3,
-      "api": "csp_App88",
-      "ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
-    },
-    {
       "key": "zhiqiu",
       "name": "🍁┃听风┃知秋",
       "type": 3,
@@ -110,7 +55,7 @@
     },
     {
       "key": "Rebo",
-      "name": "🍓┃热播┃APP",
+      "name": "🍓┃热播┃影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -121,24 +66,6 @@
       }
     },
     {
-      "key": "三秋影视",
-      "name": "🍂┃三秋┃APP",
-      "api": "csp_App3Q",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "思追",
-      "name": "💭┃思追┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "ASKjgwRNiR0Cm6kFKdNzI8WI/ic4PmwK3odgt8MhFQvbl3mhDbShb5bbTFTo7paa8t0h/eK0IaCgWFxjyrk9E3XEhEgnQl4lSED6Aai0eVzXMurDiNGdHxvF3VEUI6e4G/o4FILNazhcr7ECOwLDz/VhNAd/7G/VxdrrL+Dz0oAUiUsfLmy4DiP+aQrY1INXLXmkDb2xN5Ev3pZr7xs6XtM="
-    },
-    {
       "key": "Wwys",
       "name": "🍙┃糯米┃影视",
       "type": 3,
@@ -147,6 +74,31 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key": "Guazi",
+      "name": "🍉┃瓜子┃影视",
+      "type": 3,
+      "api": "csp_Guazi",
+      "searchable": 1
+    },
+    {
+      "key": "三秋影视",
+      "name": "🍂┃三秋┃影视",
+      "api": "csp_App3Q",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "思追",
+      "name": "💭┃思追┃影视",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "ASKjgwRNiR0Cm6kFKdNzI8WI/ic4PmwK3odgt8MhFQvbl3mhDbShb5bbTFTo7paa8t0h/eK0IaCgWFxjyrk9E3XEhEgnQl4lSED6Aai0eVzXMurDiNGdHxvF3VEUI6e4G/o4FILNazhcr7ECOwLDz/VhNAd/7G/VxdrrL+Dz0oAUiUsfLmy4DiP+aQrY1INXLXmkDb2xN5Ev3pZr7xs6XtM="
     },
     {
       "key": "wencai",
@@ -165,13 +117,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.czzymovie.com"
-    },
-    {
-      "key": "Guazi",
-      "name": "🍉┃瓜子┃影视",
-      "type": 3,
-      "api": "csp_Guazi",
-      "searchable": 1
     },
     {
       "key": "TvDy",
@@ -281,6 +226,31 @@
       "type": 3,
       "api": "csp_App88",
       "ext": "AcT3r+Yx4xV/LlB7Os5BUaHRLhSxKWwSAgpq3V+7Eo/lCbgRu4w9WaFSZNmvzIyEv57jMmi3y9UyfY2V3hG6r2ZXOYxjb2VtNGcc31qnT/0V8c5RhLl5yhVOC1di9IjfQ/w+842AXS7IaMxh6737IMQrO04oidEfNkqKs39imu3vmC7Qu0fR1zcCk4JWmurxw4V7qab1Sc/gkANOoml0aHP4VRJJ+vIuIb9yQZNRyOjKUjC0XQmPKJbcexNyZqnRghr5ADZOAN3NMjlQzd914ixCDj5ME+wlkvmbTjL+ECb0EG5LfX/ATTYr8e0EWLfOBzVon/BrbJdZU5m3k4jVSQwEjREWtS1z9bbii6G9ts77nx3P3smsdE9Mu4dEYZaSkekI62B98hP4gLCvw7qw8wZlymehntj/MTc7KupQ9sCKzPMiu8yz4eed4PGdfc6HMg=="
+    },
+    {
+      "key": "TingBook",
+      "name": "📻┆六月┆有声",
+      "type": 3,
+      "api": "csp_TingBook",
+      "searchable": 1,
+      "indexs": 0,
+      "ext": "https://app.365ting.com",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "TingBookJinXia",
+      "name": "🎙️┆堇夏┆有声",
+      "type": 3,
+      "api": "csp_TingBookJinXia",
+      "searchable": 1,
+      "filterable": 1,
+      "indexs": 0,
+      "ext": "https://m.ting15.com",
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "Market",
