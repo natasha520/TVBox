@@ -11,7 +11,7 @@
     },
     {
       "key": "配置中心",
-      "name": "🌐配置｜中心",
+      "name": "🍼配置｜中心",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -53,14 +53,14 @@
     },
     {
       "key": "藤藤",
-      "name": "❤藤藤｜4K测试",
+      "name": "❤藤藤｜4K藤藤",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%97%A4%E8%97%A4.png"
     },
     {
       "key": "茫茫",
-      "name": "❤茫茫｜4K测试",
+      "name": "❤茫茫｜4K茫茫",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%8C%AB%E8%8C%AB.png"
@@ -389,25 +389,6 @@
       "filterable": 1
     },
     {
-      "key": "3QQQ",
-      "name": "🍅大鹅┃1080P",
-      "type": 3,
-      "timeout": 15,
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "api": "csp_App3Q",
-      "ext": "https://asd123sx23xdacsx.top"
-    },
-    {
-      "key": "山楂",
-      "name": "🔴山楂┃1080P",
-      "type": 3,
-      "timeout": 15,
-      "api": "https://zzzy.shop/shanzha.py",
-      "ext": ""
-    },
-    {
       "key": "瓜子影视",
       "name": "🌀瓜子｜3K线路",
       "type": 3,
@@ -418,7 +399,7 @@
     },
     {
       "key": "热播影视",
-      "name": "🌀热播｜1920",
+      "name": "🌀热播｜蓝光",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -430,13 +411,13 @@
     },
     {
       "key": "三秋影视",
-      "name": "🌀三秋｜1920",
+      "name": "🌀三秋｜蓝光",
       "type": 3,
       "api": "csp_App3Q"
     },
     {
       "key": "久久",
-      "name": "🌀久久｜1920",
+      "name": "🌀久久｜蓝光",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -446,7 +427,7 @@
     },
     {
       "key": "飞飞",
-      "name": "🌀飞飞丨1920",
+      "name": "🌀飞飞丨蓝光",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -456,14 +437,14 @@
     },
     {
       "key": "韩圈",
-      "name": "🌀韩圈｜1920",
+      "name": "🌀韩圈｜蓝光",
       "type": 3,
       "api": "csp_Hxq",
       "ext": "http://www.小不点.com/api/2026/fishhxq.php"
     },
     {
       "key": "蓝鹰",
-      "name": "🌀蓝鹰｜1920",
+      "name": "🌀蓝鹰｜蓝光",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -478,7 +459,7 @@
     },
     {
       "key": "小鹿",
-      "name": "🌀小鹿｜1920",
+      "name": "🌀小鹿｜蓝光",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -491,7 +472,7 @@
     },
     {
       "key": "王子",
-      "name": "🌀王子｜1920",
+      "name": "🌀王子｜蓝光",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -504,7 +485,7 @@
     },
     {
       "key": "茉莉",
-      "name": "🌀茉莉｜1920",
+      "name": "🌀茉莉｜蓝光",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -517,14 +498,14 @@
     },
     {
       "key": "爱看剧",
-      "name": "🌀看剧｜1920",
+      "name": "🌀看剧｜蓝光",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
       "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "金牌",
-      "name": "🌀金牌｜1920",
+      "name": "🌀金牌｜蓝光",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -540,7 +521,7 @@
     },
     {
       "key": "剧圈99",
-      "name": "🌀剧圈丨1920",
+      "name": "🌀剧圈丨蓝光",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -555,7 +536,7 @@
     },
     {
       "key": "顾我99",
-      "name": "🌀顾我丨1920",
+      "name": "🌀顾我丨蓝光",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -571,7 +552,7 @@
     },
     {
       "key": "橙子99",
-      "name": "🌀橙子丨1920",
+      "name": "🌀橙子丨蓝光",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -587,7 +568,7 @@
     },    
     {
       "key": "追番99",
-      "name": "🌀追番｜1920",
+      "name": "🌀追番｜蓝光",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -603,7 +584,7 @@
     },
     {
       "key": "听心99",
-      "name": "🌀听心｜1920",
+      "name": "🌀听心｜蓝光",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -619,7 +600,7 @@
     },
     {
       "key": "天堂",
-      "name": "🌀天堂｜1920",
+      "name": "🌀天堂｜蓝光",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -640,7 +621,7 @@
     },
     {
       "key": "苹果",
-      "name": "🌀小苹果｜1920",
+      "name": "🌀小苹果｜蓝光",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -660,7 +641,7 @@
     },
     {
       "key": "华谊",
-      "name": "🌀华谊｜1920",
+      "name": "🌀华谊｜蓝光",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -681,7 +662,7 @@
     },
     {
       "key": "薯条",
-      "name": "🌀薯条｜1920",
+      "name": "🌀薯条｜蓝光",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -701,7 +682,7 @@
     },
     {
       "key": "雄鹰",
-      "name": "🌀雄鹰｜1920",
+      "name": "🌀雄鹰｜蓝光",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
       "ext": {
@@ -723,28 +704,14 @@
     },
     {
       "key": "华数",
-      "name": "🌀华数｜1920",
+      "name": "🌀华数｜蓝光",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
       "changeable": 1
     },
     {
-      "key": "小优",
-      "name": "🌀小优｜1280",
-      "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%B0%8F%E4%BC%98.png"
-    },
-    {
-      "key": "小爱",
-      "name": "🌀小爱｜1280",
-      "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%B0%8F%E7%88%B1.png"
-    },
-    {
       "key": "小哩弹幕",
-      "name": "🌀小哩｜1920",
+      "name": "🌀小哩｜蓝光",
       "type": 3,
       "api": "csp_Bilimd",
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.png",
@@ -758,10 +725,43 @@
     },
     {
       "key": "小哩",
-      "name": "🌀小哩｜1280",
+      "name": "🌀小哩｜1280P",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%B0%8F%E5%93%A9.png"
+    },
+    {
+      "key": "小优",
+      "name": "🌀小优｜1280P",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%B0%8F%E4%BC%98.png"
+    },
+    {
+      "key": "小爱",
+      "name": "🌀小爱｜1280P",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%B0%8F%E7%88%B1.png"
+    },
+    {
+      "key": "3QQQ",
+      "name": "🍅大鹅┃1080P",
+      "type": 3,
+      "timeout": 15,
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "api": "csp_App3Q",
+      "ext": "https://asd123sx23xdacsx.top"
+    },
+    {
+      "key": "山楂",
+      "name": "🔴山楂┃1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "https://zzzy.shop/shanzha.py",
+      "ext": ""
     },
     {
       "key": "独播影视",
