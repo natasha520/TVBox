@@ -11,7 +11,7 @@
     },
     {
       "key": "配置中心",
-      "name": "🍼配置｜中心",
+      "name": "⚙️配置｜中心",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -53,7 +53,7 @@
     },
     {
       "key": "藤藤",
-      "name": "❤藤藤｜4K藤藤",
+      "name": "❤藤藤｜4K企鹅",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%97%A4%E8%97%A4.png"
@@ -416,6 +416,22 @@
       "api": "csp_App3Q"
     },
     {
+      "key": "麦田",
+      "name": "🌀酷影┃蓝光",
+      "type": 3,
+      "api": "csp_AppV6",
+      "ext": "http://172.247.227.203:25321/mtys.php",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+    },
+   {
+      "key": "csp_Wwys",
+      "name": "🌀凤凰┃蓝光",
+      "type": 3,
+      "api": "csp_Wwys",
+      "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/tnQoXVV84noj4smGHqBG6i_20260326065606#.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
       "key": "久久",
       "name": "🌀久久｜蓝光",
       "type": 3,
@@ -471,19 +487,6 @@
       }
     },
     {
-      "key": "王子",
-      "name": "🌀王子｜蓝光",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://app.95112475.xyz",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6"
-      }
-    },
-    {
       "key": "茉莉",
       "name": "🌀茉莉｜蓝光",
       "type": 3,
@@ -502,6 +505,19 @@
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
       "ext": "http://43.248.117.123:4680"
+    },
+    {
+      "key": "王子",
+      "name": "🌀王子｜蓝光",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://app.95112475.xyz",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6"
+      }
     },
     {
       "key": "金牌",
@@ -745,6 +761,37 @@
       "ext": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%B0%8F%E7%88%B1.png"
     },
     {
+      "key": "奇异果",
+      "name": "⭐奇奇┃高清",
+      "type": 3,
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "ext": "https://raw.liucn.cc/box/libs/js/iqiyi.js",
+      "jar": "https://raw.liucn.cc/box/fty.jar;md5;3d161697458ecbcd2651a749db761ba1"
+    },
+    {
+      "key": "腾讯",
+      "name": "⭐滕滕┃高清",
+      "type": 3,
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "ext": "https://raw.liucn.cc/box/libs/js/qq.js",
+      "jar": "https://raw.liucn.cc/box/fty.jar;md5;3d161697458ecbcd2651a749db761ba1"
+    },
+    {
+      "key": "优酷视频",
+      "name": "⭐优优┃高清",
+      "type": 3,
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "ext": "https://raw.liucn.cc/box/libs/js/youku.js",
+      "jar": "https://raw.liucn.cc/box/fty.jar;md5;3d161697458ecbcd2651a749db761ba1"
+    },
+    {
+      "key": "芒果┃官源",
+      "name": "⭐果果┃高清",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
+    },
+    {
       "key": "3QQQ",
       "name": "🍅大鹅┃1080P",
       "type": 3,
@@ -793,6 +840,12 @@
       "filterable": 1
     },
     {
+      "key": "三六零",
+      "name": "📺三六零｜影视",
+      "type": 3,
+      "api": "csp_SP360"
+    },
+    {
       "key": "1905",
       "name": "📺1905｜影视",
       "type": 3,
@@ -802,14 +855,8 @@
       "filterable": 0
     },
     {
-      "key": "三六零",
-      "name": "📺三六零｜影视",
-      "type": 3,
-      "api": "csp_SP360"
-    },
-    {
       "key": "无水印采集",
-      "name": "💢水印｜采集",
+      "name": "💢资源｜采集",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
       "categories": [
