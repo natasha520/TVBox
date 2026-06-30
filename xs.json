@@ -996,6 +996,154 @@
        "type": 0,
        "ua": "okhttp",
        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/TVBox/refs/heads/main/IPTV.txt"
+    },
+    {
+       "name": "🐬JackTV",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+    },
+    {
+       "name": "♒TV123",
+       "type": 0,
+       "url": "http://tv123.vvvv.ee/tv.m3u",
+       "playerType": 2,
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
+    {
+       "name": "♎易发🔞",
+       "type": 0,
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+       "playerType": 2,
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+       "name": "🐬安博🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/安博.txt"
+    },
+    {
+       "name": "✨天命🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "file:///storage/emulated/0/TV/天命.txt"
+    },
+    {
+       "name": "✨天命(Github)🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/FGBLH/refs/heads/main/%E5%A4%A9%E5%91%BD.txt"
+    },
+    {
+       "name": "🐬夜色🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://od.lk/s/NjFfMTI2ODY2NDU0Xw/CR.txt"
+    },
+    {
+        "name": "🐬午夜🔞",
+        "type": 0,
+        "ua": "okhttp",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/xxx视频资源"
+    },
+    {
+       "name": "🐬欧美🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "http://xtvantsc.xyz/欧美2160.m3u"
+    },
+    { 
+       "name": "🐬HOT(🪜)🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://omds.zzong6599.workers.dev/live.m3u"
+    },
+	{
+       "name": "🐬FC2-PPV1🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/FC2-PPV1.m3u"
+    },
+    {
+       "name": "🐬女优库🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://github.com/KAN314go/cc/raw/refs/heads/main/file/%E5%A5%B3%E4%BC%98%E5%BA%93%E5%85%A8%E9%9B%86.m3u"
+    },
+    {
+       "name": "🐬女优1🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优1.m3u"
+    },
+    {
+       "name": "🐬女优2🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优2.m3u"
+    },
+    {
+       "name": "🐬女优3🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优3.m3u"
+    },
+    {
+       "name": "🐬女优4🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优4.m3u"
+    },
+    {
+       "name": "🐬女优5🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优5.m3u"
+    },
+    {
+       "name": "🐬女优6🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优6.m3u"
+    },
+    {
+       "name": "🐬女优7🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优7.m3u"
+    },
+    {
+       "name": "🐬女优8🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优8.m3u"
+    },
+    {
+       "name": "🐬女优9🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优9.m3u"
+    },
+    {
+       "name": "🐬女优10🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优10.m3u"
+    },
+    {
+       "name": "🐬女优11🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"
+    },
+    {
+       "name": "🐬女优12(🪜)🔞",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://cloud.7so.top/f/RO04U5/%E4%B8%BD%E5%BD%B1%E7%90%BC%E5%A7%BF.m3u"
     }
   ],
   "parses": [
