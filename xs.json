@@ -85,19 +85,6 @@
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%8C%AB%E8%8C%AB.png"
     },
     {
-      "key": "动漫天堂",
-      "name": "✨天堂｜4K动漫",
-      "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/500.txt",
-        "key": "1vi33w2pAHEm8Y6U",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "玩偶哥哥",
       "name": "🌐玩偶｜4K网盘",
       "type": 3,
@@ -327,12 +314,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xn--fjq53n.xyz/TV/ziyong/%E6%B3%A5%E8%A7%86%E9%A2%91.js"
-    },
-    {
-      "key": "rb",
-      "name": "💥热播｜秒播",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/15654/py/%E7%83%AD%E6%92%ADAPP.py"
     },
     {
       "key": "热播影视",
@@ -999,13 +980,17 @@
       ]
     },
     {
-      "key": "1905",
-      "name": "📺1905｜影视",
+      "key": "动漫天堂",
+      "name": "☀️天堂｜动漫",
       "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/500.txt",
+        "key": "1vi33w2pAHEm8Y6U",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
     },
     {
       "key": "双星99",
@@ -1102,18 +1087,6 @@
         "ua": "okhttp",
         "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/xxx视频资源"
     },
-    {
-       "name": "🐬欧美🔞",
-       "type": 0,
-       "ua": "okhttp",
-       "url": "http://xtvantsc.xyz/欧美2160.m3u"
-    },
-    { 
-       "name": "🐬HOT(🪜)🔞",
-       "type": 0,
-       "ua": "okhttp",
-       "url": "https://omds.zzong6599.workers.dev/live.m3u"
-    },
 	{
        "name": "🐬FC2-PPV1🔞",
        "type": 0,
@@ -1193,10 +1166,10 @@
        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"
     },
     {
-       "name": "🐬女优12(🪜)🔞",
+       "name": "🐬女优12🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://cloud.7so.top/f/RO04U5/%E4%B8%BD%E5%BD%B1%E7%90%BC%E5%A7%BF.m3u"
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/FGBLH/refs/heads/main/%E6%97%A5%E6%9C%AC%E5%A5%B3%E4%BC%9812.txt"
     }
   ],
   "parses": [
