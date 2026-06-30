@@ -53,46 +53,40 @@
     },
     {
       "key": "藤藤",
-      "name": "⭐藤藤｜4K藤藤",
+      "name": "♥️藤藤｜4K藤藤",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%97%A4%E8%97%A4.png"
     },
     {
       "key": "茫茫",
-      "name": "⭐茫茫｜4K茫茫",
+      "name": "♥️茫茫｜4K茫茫",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%8C%AB%E8%8C%AB.png"
     },
     {
       "key": "芒果┃官源",
-      "name": "⭐果果┃4K果果",
+      "name": "♥️果果┃4K果果",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
     },
     {
-      "key": "rb",
-      "name": "💥热播｜秒播PY",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/15654/py/%E7%83%AD%E6%92%ADAPP.py"
-    },
-    {
       "key": "fy",
-      "name": "💥枫叶｜4KPY",
+      "name": "♨️枫叶｜4K线路",
       "type": 3,
       "api": "https://d.kstore.dev/download/15654/py/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py"
     },
     {
       "key": "火云",
-      "name": "💥火云｜4KPY",
+      "name": "♨️火云｜4K线路",
       "type": 3,
       "api": "https://d.kstore.dev/download/15654/js/hy.js"
     },
     {
       "key": "4K",
-      "name": "💥嗷呜｜4KPY",
+      "name": "♨️嗷呜｜4K线路",
       "type": 3,
       "api": "https://d.kstore.dev/download/15654/py/4K.py",
       "searchable": 1,
@@ -105,7 +99,7 @@
     },    
     {
       "key": "猎手影视",
-      "name": "💥猎手｜4KPY",
+      "name": "♨️猎手｜4K线路",
       "type": 3,
       "api": "https://d.kstore.dev/download/15654/py/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
@@ -118,7 +112,7 @@
     },
     {
       "key": "壹影视",
-      "name": "💥壹影视｜4KPY",
+      "name": "♨️壹影视｜4K线路",
       "type": 3,
       "api": "https://d.kstore.dev/download/15654/py/%E5%A3%B9%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
@@ -130,6 +124,19 @@
       "ext": ""
     },
     {
+      "key": "四叶草",
+      "name": "♨️四叶草｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt",
+        "key": "wNCwbXzr0Bm6cS2C",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "首发",
       "name": "♨️首发｜4K线路",
       "type": 3,
@@ -137,19 +144,6 @@
       "ext": {
         "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt",
         "key": "FTgP4Gq8zPiqbt7M",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "四叶草",
-      "name": "♨️幸运｜4K线路",
-      "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt",
-        "key": "wNCwbXzr0Bm6cS2C",
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
@@ -439,6 +433,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "rb",
+      "name": "💥热播｜秒播",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/15654/py/%E7%83%AD%E6%92%ADAPP.py"
+    },
+    {
+      "key": "皮皮虾",
+      "name": "💥皮皮虾｜秒播",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/15654/py/ppx.py",
+      "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "瓜子影视",
@@ -885,8 +892,34 @@
       "filterable": 0
     },
     {
+      "key": "荐片",
+      "name": "🧲荐片｜磁力",
+      "api": "csp_JianPian",
+      "type": 3
+    },
+    {
+      "key": "New6v",
+      "name": "🧲New6V｜磁力",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
+    {
+      "key": "电影港",
+      "name": "🧲电影港｜磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E7%94%B5%E5%BD%B1%E6%B8%AF.png"
+    },
+    {
       "key": "无水印采集",
-      "name": "💢资源｜采集",
+      "name": "⭐️资源｜采集",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
       "categories": [
@@ -927,32 +960,6 @@
         "日本×X",
         "西方X×"
       ]
-    },
-    {
-      "key": "荐片",
-      "name": "🧲荐片｜磁力",
-      "api": "csp_JianPian",
-      "type": 3
-    },
-    {
-      "key": "New6v",
-      "name": "🧲New6V｜磁力",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
-    },
-    {
-      "key": "电影港",
-      "name": "🧲电影港｜磁力",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E7%94%B5%E5%BD%B1%E6%B8%AF.png"
     },
     {
       "key": "双星99",
