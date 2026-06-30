@@ -918,6 +918,23 @@
       "ext": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E7%94%B5%E5%BD%B1%E6%B8%AF.png"
     },
     {
+      "key": "刺桐资源",
+      "name": "⭐️刺桐┃采集",
+      "type": 1,
+      "api": "http://pg.cttv.vip/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "暴风影视",
+      "name": "⭐️暴风┃采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "url": "https://jkk.zyzqcb.cc/jkk.php?url=",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "无水印采集",
       "name": "⭐️资源｜采集",
       "type": 1,
