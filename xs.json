@@ -55,13 +55,13 @@
       "key": "fy",
       "name": "✨枫叶｜4K线路",
       "type": 3,
-      "api": "https://d.kstore.dev/download/15654/py/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/py/refs/heads/main/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py"
     },
     {
       "key": "4K",
       "name": "✨嗷呜｜4K线路",
       "type": 3,
-      "api": "https://d.kstore.dev/download/15654/py/4K.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/py/refs/heads/main/4K.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -417,13 +417,13 @@
       "key": "火云",
       "name": "🌀火云｜蓝光",
       "type": 3,
-      "api": "https://d.kstore.dev/download/15654/js/hy.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/js/refs/heads/main/hy.js"
     },
     {
       "key": "猎手影视",
       "name": "🌀猎手｜蓝光",
       "type": 3,
-      "api": "https://d.kstore.dev/download/15654/py/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/py/refs/heads/main/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -436,7 +436,7 @@
       "key": "壹影视",
       "name": "🌀壹影视｜蓝光",
       "type": 3,
-      "api": "https://d.kstore.dev/download/15654/py/%E5%A3%B9%E5%BD%B1%E8%A7%86.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/py/refs/heads/main/%E5%A3%B9%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1033,7 +1033,7 @@
        "name": "📺IPTV",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/TVBox/refs/heads/main/IPTV.txt"
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/Personal-tv/refs/heads/main/IPTV.txt"
     },
     {
        "name": "🐬JackTV",
