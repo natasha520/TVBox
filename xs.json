@@ -1030,7 +1030,7 @@
   ],
   "lives": [
     {
-       "name": "📺IPTV",
+       "name": "📡IPTV",
        "type": 0,
        "ua": "okhttp",
        "url": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/Personal-tv/refs/heads/main/IPTV.txt"
