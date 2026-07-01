@@ -25,14 +25,27 @@
     },  
     {
       "key": "芒果弹幕",
-      "name": "✨幽灵｜4K原画",
+      "name": "💓‍幽灵｜4K原画",
       "type": 3,
       "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
       "ext": "http://8.148.229.212:802/幽灵4ks2-a/lib/幽灵4kMG.js"
     },
     {
+      "key": "极米4k",
+      "name": "💓‍极米┃4K原画",
+      "type": 3,
+      "api": "http://110.42.41.52:8989/uploads/cangku/JS/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 1,
+      "changeable": 1,
+      "playerType": 3,
+      "ext": "https://210.16.170.113:8889/down/xeaGjhQ5QgKY.js"
+    },
+    {
       "key": "新腾极4k",
-      "name": "✨幽灵｜4K臻彩",
+      "name": "💓‍幽灵｜4K臻彩",
       "type": 3,
       "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -43,6 +56,18 @@
       "ext": "http://8.148.229.212:802/幽灵4ks2-a/lib/幽灵4kTX.js"
     },
     {
+      "key": "hipy_js_百忙无果[官]",
+      "name": "💓‍神兽┃4K臻彩",
+      "type": 3,
+      "api": "http://125.208.22.184:6695/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "playerType": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://125.208.22.184:6695/uploads/tvbox/js/百忙无果[官].js"
+    },
+    {
       "key": "极影",
       "name": "✨极影｜4K臻彩",
       "type": 3,
@@ -51,6 +76,33 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+    },
+    {
+      "key": "ttys",
+      "name": "✨腾腾 | 4K线路",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
+      "ext": "http://49.232.165.72:1234/js/qq.js"
+    },
+    {
+      "key": "mmmm",
+      "name": "✨茫茫 | 4K线路①",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
+      "ext": "http://49.232.165.72:1234/js/mg.js"
+    },
+    {
+      "key": "茫茫",
+      "name": "✨茫茫｜4K线路②",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/js/茫茫.png"
     },
     {
       "key": "fy",
@@ -72,18 +124,44 @@
       "ext": ""
     },    
     {
-      "key": "藤藤",
-      "name": "✨藤藤｜4K线路",
+      "key": "装歌",
+      "name": "🌐装歌｜4K网盘",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%97%A4%E8%97%A4.png"
+      "changeable": "0",
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/0df0dafe840912a9250167063b1f3cad.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e",
+      "ext": {
+        "site_urls": [
+          "https://ogkk.nxog.fun",
+          "https://ogkk.nxog.eu.org"
+        ],
+        "url_key": "装歌",
+        "threadinfo": {
+          "chunksize": 284,
+          "threads": 16
+        }
+      }
     },
     {
-      "key": "茫茫",
-      "name": "✨茫茫｜4K线路",
+      "key": "csp_woog",
+      "name": "🌐玩歌｜4K网盘",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%8C%AB%E8%8C%AB.png"
+      "changeable": "0",
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1aa78a7afa85d5ace98c1c57e6123f2c.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0",
+      "ext": {
+        "site_urls": [
+          "https://woog.nxog.fun",
+          "https://woog.nxog.eu.org"
+        ],
+        "url_key": "woog",
+        "threadinfo": {
+          "chunksize": 246,
+          "threads": 16
+        }
+      }
     },
     {
       "key": "玩偶哥哥",
