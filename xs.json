@@ -55,13 +55,13 @@
       "key": "fy",
       "name": "✨枫叶｜4K线路",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/py/refs/heads/main/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py"
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py"
     },
     {
       "key": "4K",
       "name": "✨嗷呜｜4K线路",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/py/refs/heads/main/4K.py",
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/4K.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -274,29 +274,29 @@
       "key": "drpy_js_奇珍异兽",
       "name": "🎞️奇艺┃高清",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "🎞️优酷┃高清",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js"
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "🎞️滕讯┃高清",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "🎞️芒果┃高清",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"
     },
     {
       "key": "drpy2_  网飞猫",
@@ -417,13 +417,13 @@
       "key": "火云",
       "name": "🌀火云｜蓝光",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/js/refs/heads/main/hy.js"
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/js/refs/heads/main/hy.js"
     },
     {
       "key": "猎手影视",
       "name": "🌀猎手｜蓝光",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/py/refs/heads/main/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -436,7 +436,7 @@
       "key": "壹影视",
       "name": "🌀壹影视｜蓝光",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/py/refs/heads/main/%E5%A3%B9%E5%BD%B1%E8%A7%86.py",
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/%E5%A3%B9%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1033,7 +1033,7 @@
        "name": "📺IPTV",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/Personal-tv/refs/heads/main/IPTV.txt"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/Personal-tv/refs/heads/main/IPTV.txt"
     },
     {
        "name": "🐬JackTV",
@@ -1052,7 +1052,7 @@
     {
        "name": "♎易发🔞",
        "type": 0,
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
        "playerType": 2,
        "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
        "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1061,7 +1061,7 @@
        "name": "🐬安博🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/安博.txt"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/安博.txt"
     },
     {
        "name": "✨天命🔞",
@@ -1073,7 +1073,7 @@
        "name": "✨天命(Github)🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/FGBLH/refs/heads/main/%E5%A4%A9%E5%91%BD.txt"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/FGBLH/refs/heads/main/%E5%A4%A9%E5%91%BD.txt"
     },
     {
        "name": "🐬夜色🔞",
@@ -1085,91 +1085,91 @@
         "name": "🐬午夜🔞",
         "type": 0,
         "ua": "okhttp",
-        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/xxx视频资源"
+        "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/xxx视频资源"
     },
 	{
        "name": "🐬FC2-PPV1🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/FC2-PPV1.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/FC2-PPV1.m3u"
     },
     {
        "name": "🐬女优库🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://github.com/KAN314go/cc/raw/refs/heads/main/file/%E5%A5%B3%E4%BC%98%E5%BA%93%E5%85%A8%E9%9B%86.m3u"
+       "url": "https://gh-proxy.org/github.com/KAN314go/cc/raw/refs/heads/main/file/%E5%A5%B3%E4%BC%98%E5%BA%93%E5%85%A8%E9%9B%86.m3u"
     },
     {
        "name": "🐬女优1🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优1.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优1.m3u"
     },
     {
        "name": "🐬女优2🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优2.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优2.m3u"
     },
     {
        "name": "🐬女优3🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优3.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优3.m3u"
     },
     {
        "name": "🐬女优4🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优4.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优4.m3u"
     },
     {
        "name": "🐬女优5🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优5.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优5.m3u"
     },
     {
        "name": "🐬女优6🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优6.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优6.m3u"
     },
     {
        "name": "🐬女优7🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优7.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优7.m3u"
     },
     {
        "name": "🐬女优8🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优8.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优8.m3u"
     },
     {
        "name": "🐬女优9🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优9.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优9.m3u"
     },
     {
        "name": "🐬女优10🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优10.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优10.m3u"
     },
     {
        "name": "🐬女优11🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"
     },
     {
        "name": "🐬女优12🔞",
        "type": 0,
        "ua": "okhttp",
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/natasha520/FGBLH/refs/heads/main/%E6%97%A5%E6%9C%AC%E5%A5%B3%E4%BC%9812.txt"
+       "url": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/FGBLH/refs/heads/main/%E6%97%A5%E6%9C%AC%E5%A5%B3%E4%BC%9812.txt"
     }
   ],
   "parses": [
