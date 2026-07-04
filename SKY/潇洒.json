@@ -53,6 +53,43 @@
       "ext": ""
     },    
     {
+      "key": "csp_woog",
+      "name": "☁️玩歌｜4K网盘",
+      "type": 3,
+      "changeable": "0",
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1aa78a7afa85d5ace98c1c57e6123f2c.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0",
+      "ext": {
+        "site_urls": [
+          "https://woog.nxog.fun",
+          "https://woog.nxog.eu.org"
+        ],
+        "url_key": "woog",
+        "threadinfo": {
+          "chunksize": 246,
+          "threads": 16
+        }
+      }
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "☁️玩偶｜4K网盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.wogg.net",
+          "https://wogg.xxooo.cf",
+          "https://woggpan.xxooo.cf"
+        ]
+      }
+    },
+    {
       "key": "木偶",
       "name": "☁️木偶｜4K网盘",
       "type": 3,
@@ -879,43 +916,6 @@
         "西方X×"
       ]
     },
-    {
-      "key": "csp_woog",
-      "name": "☁️玩歌｜4K网盘",
-      "type": 3,
-      "changeable": "0",
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1aa78a7afa85d5ace98c1c57e6123f2c.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0",
-      "ext": {
-        "site_urls": [
-          "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org"
-        ],
-        "url_key": "woog",
-        "threadinfo": {
-          "chunksize": 246,
-          "threads": 16
-        }
-      }
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "☁️玩偶｜4K网盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.wogg.net",
-          "https://wogg.xxooo.cf",
-          "https://woggpan.xxooo.cf"
-        ]
-      }
-    },
 	{
 	  "key": "hgdj",
 	  "name": "🎬红果｜短剧",
@@ -953,7 +953,7 @@
     },
     {
       "key": "世界听书",
-      "name": "📖 ┇ 世界 ┇ 听书",
+      "name": "📖 世界丨听书",
       "type": 3,
       "api": "csp_TingShijie",
       "style": {
