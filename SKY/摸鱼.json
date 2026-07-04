@@ -1,6 +1,7 @@
 {
-  "spider": "https://zhuyu-prod-1256652038.cos.ap-guangzhou.myqcloud.com/GLlwgMOxOwOf/fish06301918.jar;md5;17468f1ada685433609206d93c84743d",
+  "spider": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260704/Kapp/fish07041840.jar;md5;be6dc847ec93275e0634d2b703b86634",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
     {
       "key": "Douban",
@@ -9,8 +10,7 @@
       "api": "csp_Douban",
       "indexs": 1,
       "searchable": 0,
-      "filterable": 1,
-      "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/2026/douban.json"
+      "filterable": 1
     },
     {
       "key": "FishConfig",
