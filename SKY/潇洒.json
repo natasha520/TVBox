@@ -962,6 +962,36 @@
       "filterable": 1
     },
     {
+      "key": "盘搜",
+      "name": "🔍混合丨盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "百酷",
+      "name": "🔍百酷丨盘搜",
+      "type": 3,
+      "api": "csp_Baiku",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "趣盘",
+      "name": "🔍趣盘丨盘搜",
+      "type": 3,
+      "api": "csp_QuPanSo",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
       "key": "版本信息",
       "name": "♻️版本｜信息",
       "type": 3,
