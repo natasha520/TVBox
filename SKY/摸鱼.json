@@ -1,5 +1,5 @@
 {
-  "spider": "https://cnb.cool/sky-007/Fish/-/commit-assets/download/a49a168e7caae960d2012a199e763265eac46935/fish07041155.jar;md5;be6dc847ec93275e0634d2b703b86634",
+  "spider": "https://cnb.cool/sky-007/Fish/-/commit-assets/download/a49a168e7caae960d2012a199e763265eac46935/moyuer-fish07050818.jar;md5;d5456a941be336a4181fd5a97bbc12bf",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -46,6 +46,16 @@
       "filterable": 1
     },
     {
+      "key": "FengYe",
+      "name": "🍁┆枫叶┆4K",
+      "type": 3,
+      "api": "csp_CupFox",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "ASrqK2y8hBjF6nWBT4VA6nl6pMHBuUkTFU8G1oArN4pFIRBIK3Koep4Mpa+rHr3EEKPvWTsPKevEKAGNJkBG3jYkvcbsm4uMR4SEGFXEVUK5k5GC1r3GrXXjDgc1ezNOEnVyK6ZdKI+xk/a/S3HSnknsxpSteN1SyaZ76LlkHDg8oTcmvsm6VWIJmoLG+EXXFO47gkwl6Z2cGWF6122DYXd9rqv5d1nPkPmMRFOjZmeIQwGet75HMuUQH2SD6tMhrHwqOVYxsZhaEJyp6C5P7lQgMd2fNfTUjdB8IXkeVnT+wuAKOiT09go+UHAmjghG58OMf/v/2ou2/Ojv5RTxZkUiiLZ5tUfJMSW87nNKi1Ak4w3wJ2h0OBR83irMrQjD68TCU0pG+ecPOjclNg7OFlbYxsLd0PPUBDQOAxFhq9+IpEgRp04Fi5Eb9B2exKN8CXuEoyf6ISv5l7FkIamTpm0="
+    },
+    {
       "key": "huaisang",
       "name": "✨┃怀桑┃4K",
       "type": 3,
@@ -78,12 +88,6 @@
       "type": 3,
       "api": "csp_App88",
       "ext": "AdzbT8Ti+fGJ2PrJDEahdT7+zU3sFruyF0fAaUTWAUOCrbG/s0KhC5zQusyXAkmDYai/yhecQAtwKkDfTqbVCQT15T0FDK1GX9GLxT9V3XyFRDT0ATcwcFfw5joxSB+YLlez1nGpT2AW5KomI3yNv3ORTd4B3NqAcM34Cioc6+xwfj3HJ4JO6kQvv4solNApeP7CqF/Ecpt1BCgvvPzswMOr+kgVG/Iu8btrVQFO+pRpY7cfpc/Y59ZqaJlrCTDNLxgwuG20RZ9gVWsW+vd3A9lRgeTiJ39vJPoK46+9LnYGWU9dlDR1qRg4y5ILVQjEnT4el2cKSZexf7nrXHVfF3nOmHH/w/R/OSGllwUB7FCHDMc7eDY7haDYHWAQpEmcn4+BfbC4cipsdZ+nVieVVuuaWSF9s+0xYPWdSYLJMxApplTYkO+/h5z9atdURJUMGQ=="
-    },
-    {
-      "key": "fy",
-      "name": "✨┃枫叶┃4K",
-      "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py"
     },
     {
       "key": "4K",
