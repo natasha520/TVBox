@@ -244,8 +244,14 @@
       }
     },
     {
+      "key": "人人",
+      "name": "☁️人人｜4K网盘",
+      "type": 3,
+      "api": "csp_RenRen"
+    },
+    {
       "key": "即刻",
-      "name": "即刻 • 4K",
+      "name": "☁️即刻 ｜4K网盘",
       "type": 3,
       "api": "csp_Jike",
       "searchable": 1,
@@ -257,19 +263,37 @@
       "timeout": 60
     },
     {
-      "key": "人人",
-      "name": "☁️人人｜4K网盘",
+      "key": "双星",
+      "name": "☁️双星｜4K网盘",
       "type": 3,
-      "api": "csp_RenRen"
+      "api": "csp_ShuangXing",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+          "type": "list"
+      },
+      "timeout": 60
     },
     {
-      "key": "指南",
-      "name": "☁️指南｜4K网盘",
+      "key": "123",
+      "name": "☁️123｜4K网盘",
       "type": 3,
-      "api": "csp_4KZhinan",
+      "api": "csp_PanWebShare123",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": {
+        "site": [
+          "https://123panfx.com",
+          "https://pan1.me"
+        ]
+      }
     },
     {
       "key": "热播影视",
@@ -866,7 +890,7 @@
       "key": "采集聚合",
       "name": "⭐️采集聚合丨采集",
       "type": 3,
-      "api": "https://gh-proxy.com/github.com/natasha520/py/raw/refs/heads/main/%E9%87%87%E9%9B%86%E8%81%9A%E5%90%88.py"
+      "api": "https://gh-proxy.org/github.com/natasha520/py/raw/refs/heads/main/%E9%87%87%E9%9B%86%E8%81%9A%E5%90%88.py"
     },
     {
       "key": "刺桐资源",
