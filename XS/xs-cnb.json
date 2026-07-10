@@ -25,43 +25,8 @@
       }
     },  
     {
-      "key": "极影",
-      "name": "❤极影｜4K",
-      "type": 3,
-      "api": "https://cnb.cool/sky-007/js/-/git/raw/main/lib/jy.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
-    },
-    {
-      "key": "fy",
-      "name": "❤枫叶｜4K",
-      "type": 3,
-      "api": "https://cnb.cool/sky-007/py/-/git/raw/main/枫叶.py"
-    },
-    {
-      "key": "映像星球",
-      "name": "❤映像｜4K",
-      "type": 3,
-      "api": "https://cnb.cool/sky-007/py/-/git/raw/main/映像星球.py"
-    },
-    {
-      "key": "4K",
-      "name": "❤嗷呜｜4K",
-      "type": 3,
-      "api": "https://cnb.cool/sky-007/py/-/git/raw/main/4K.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "order_num": 0,
-      "ext": ""
-    },    
-    {
       "key": "csp_woog",
-      "name": "☁️玩歌｜4K网盘",
+      "name": "☁️玩歌｜网盘",
       "type": 3,
       "changeable": "0",
       "api": "csp_Duopan",
@@ -81,7 +46,7 @@
     },
     {
       "key": "玩偶",
-      "name": "☁️玩偶｜4K网盘",
+      "name": "☁️玩偶｜网盘",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -99,7 +64,7 @@
     },
     {
       "key": "快映",
-      "name": "☁️快映｜4K网盘",
+      "name": "☁️快映｜网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -115,7 +80,7 @@
     },
     {
       "key": "木偶",
-      "name": "☁️木偶｜4K网盘",
+      "name": "☁️木偶｜网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -134,7 +99,7 @@
     },
     {
       "key": "蜡笔",
-      "name": "☁️蜡笔｜4K网盘",
+      "name": "☁️蜡笔｜网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -153,7 +118,7 @@
     },
     {
       "key": "至臻",
-      "name": "☁️至臻｜4K网盘",
+      "name": "☁️至臻｜网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -171,7 +136,7 @@
     },
     {
       "key": "多多",
-      "name": "☁️多多｜4K网盘",
+      "name": "☁️多多｜网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -189,7 +154,7 @@
     },
     {
       "key": "欧哥",
-      "name": "☁️欧哥｜4K网盘",
+      "name": "☁️欧哥｜网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -208,7 +173,7 @@
     },
     {
       "key": "二小",
-      "name": "☁️二小｜4K网盘",
+      "name": "☁️二小｜网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -227,7 +192,7 @@
     },
     {
       "key": "虎斑",
-      "name": "☁️虎斑｜4K网盘",
+      "name": "☁️虎斑｜网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -243,7 +208,7 @@
     },
     {
       "key": "夸父",
-      "name": "☁️夸父｜4K网盘",
+      "name": "☁️夸父｜网盘",
       "type": 3,
       "api": "csp_PanWebShareKF",
       "searchable": 1,
@@ -263,7 +228,7 @@
     },
     {
       "key": "123",
-      "name": "☁️123｜4K网盘",
+      "name": "☁️123｜网盘",
       "type": 3,
       "api": "csp_PanWebShare123",
       "searchable": 1,
@@ -283,7 +248,7 @@
     },
     {
       "key": "指南",
-      "name": "☁️指南｜4K网盘",
+      "name": "☁️指南｜网盘",
       "type": 3,
       "api": "csp_4KZhinan",
       "searchable": 1,
@@ -293,7 +258,7 @@
     },
     {
       "key": "人人",
-      "name": "☁️人人｜4K网盘",
+      "name": "☁️人人｜网盘",
       "type": 3,
       "api": "csp_RenRen",
       "searchable": 1,
@@ -303,7 +268,7 @@
     },
     {
       "key": "即刻",
-      "name": "☁️即刻｜4K网盘",
+      "name": "☁️即刻｜网盘",
       "type": 3,
       "api": "csp_Jike",
       "searchable": 1,
@@ -316,7 +281,7 @@
     },
     {
       "key": "双星",
-      "name": "☁️双星｜4K网盘",
+      "name": "☁️双星｜网盘",
       "type": 3,
       "api": "csp_ShuangXing",
       "searchable": 1,
@@ -326,6 +291,17 @@
         "type": "list"
       },
       "timeout": 60
+    },
+    {
+      "key": "天天",
+      "name": "🌀天天｜蓝光",
+      "type": 3,
+      "api": "csp_TTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/DDYY.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
       "key": "热播影视",
@@ -433,21 +409,6 @@
       "name": "🌀三六零｜蓝光",
       "type": 3,
       "api": "csp_SP360"
-    },
-    {
-      "key": "星河",
-      "name": "🌀星河┃蓝光",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt+",
-        "dataKey": "kj37zs29q22jk96t",
-        "dataIv": "kj37zs29q22jk96t",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
     },
     {
       "key": "蓝鹰",
@@ -780,6 +741,35 @@
       "changeable": 1
     },
     {
+      "key": "极影",
+      "name": "🎞️极影｜高清",
+      "type": 3,
+      "api": "https://cnb.cool/sky-007/js/-/git/raw/main/lib/jy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+    },
+    {
+      "key": "fy",
+      "name": "🎞️枫叶｜高清",
+      "type": 3,
+      "api": "https://cnb.cool/sky-007/py/-/git/raw/main/枫叶.py"
+    },
+    {
+      "key": "4K",
+      "name": "🎞️嗷呜｜高清",
+      "type": 3,
+      "api": "https://cnb.cool/sky-007/py/-/git/raw/main/4K.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "order_num": 0,
+      "ext": ""
+    },    
+    {
       "key": "华数",
       "name": "🎞️华数｜高清",
       "type": 3,
@@ -845,13 +835,123 @@
       "api": "https://cnb.cool/sky-007/js/-/git/raw/main/hy.js"
     },
     {
-      "key": "独家免扫",
+      "key": "界影视",
+      "name": "🎞️世界丨高清",
+      "type": 3,
+      "api": "https://cnb.cool/sky-007/js/-/git/raw/main/%E4%B8%96%E7%95%8C.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "SVIP影视",
+      "name": "🎞️VIP丨高清",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/XBPQ.jar",
+      "ext": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/json/DDvip.json"
+    },
+   {
+      "key": "免扫4K",
       "name": "🎞️独家丨高清",
       "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/DDgq.jpg",
       "api": "csp_AppV6",
       "playerType": 2,
       "ext": "7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j1912818glikl7lh1jk9k4222k1kg696igkk32ig6lhj3kl50j08lkl6j0h6gi7k2j31jj0k7i1784l25g757hhkl42i7jg68illihj867l82g53532j62i92kljhj5llh498k24796l57j55ji0ji2g22i501jl541j9j4i68i5j602744l10413k457hl80l91j5l44139j23g64h27k08l5509h202gl84338hi17082hkj5746g298j640i002jk1265h745j289303h6i6j6j15jgkg15485h8g935hk83g9g7j661l4i557jl56h6l0h40i5j9hkiig7066523l2h24gj9k1083g6l2gihh2j5hhgkgij04j8900jhg4l6731hkhij7kk2i594536563674gki85li59jhk79067964197h5k7k2641h03l45074jkkklhik123407146l1i0jk90k1hgl151076ig7i4gi0858h62j37lh8l4hl519ghi7g04h2h900jlj7ll333i736549624gjk8k508g9499gj3jj7050jjhgh4i57326j83301i0kkl88040ih52gj8j0gk0h4g5g7lh561k2gk6k7k56h01598ji23g27k3i17878j92k2gj1l5ih8h0jj73k94g9hl5g7h229i10g099k09l958h3hk18l72h1j43gg7177g4h7ll8987644383606klgh9h4ll42h7293k694kl20j539g6jl17ig655461138jgj7306i1296k3i03586k6l32j5hlik4051187741218271j8j4g3i1h6719877l10k1ijl220i8hlil3j3g129ll3k2i5164lkg12k253kk1h8j5l0gki49jg25hlii704l5ih74439hlj9jih5ki53242ijgh6359i8i5j4h2j2i4581l244j4ij728490hk0k34542916i2lig57836gg7kji3l160234i24hik5g18h790488748j680k5i0l885lj66kjk78j2i57i5021g283ik9g38g62259h1lgi811ihki506k5934g7h737hg9360lll98l4j8i049903l1354lg00019g0934h005h8jjkl60j91k7j74i96h8h26hk59i653209lgj07g1g298k48jllgh00l4i742gi72l27038157gji9j32gh0k5672167k2588h31967l3867g50k503ik403781ki72j47hh4363l0708k4g961k4hl8g4j35ilk143h3424010i165lj612h50k68l61ghl9h80kh874k14ggk2ilg018hi5l1g34262196lkl45ih981jkl42271l4232k93hk8ih3g814i6h63h0g64l300i42il1g0454921j12h4844ii714ih71lg172326009812833h62kj8009kijk5hhg763031235l45h78614l7h9k579h6lj290i98851gll70024834hgj2lg5hk3l905i346gij11kl5j9i7h5j5k12hl061l488k061564g398i2150h9j343901865h7567g874i1gghl5ihg8il8hh0650h6308l2i5053997g8g12g16l3l7h5lhlji71i1i23h0ljl1h14688h7g13987h548h33k34hi6h2i63h424jhl1kik26kl3h60662846j6j0749l8kh95018kl1971j5j5gjk9hg70542391j77hjj65l127627h6h8h0hi003i2hih6h0k9k878lj858k30iljgik0l9248jk25l4h701l6gllhkhi54g24g926jgj884266514056805k2h15hh442i3170ilik20h88i561k0682k04459i154i03ikglg6220i4jii1g32067il925g450k0i1241l3il2jjl6k186gjj53h611il59k650i4kjhi87i798hg6h01g306ig104145ig9h68i092ghhh59jig99j12383792452h44206glk62g67gj204hk874l5li8646g65i9085244i092g70ig9h8657kg0413466ii87k9i32hglh24hi2li7174735i520ik608ilg71292838j5k1h39271ghg5288g930lg6h75626l71h8h5g011k9l9lgk691i04166h7996g452kij4l4l72881k6kl5701jl707hi415j8h3k67576966g2k94k03k0lj31995h2j26hi69jhjji162625l50j7790093hli0jjkh1ll804i3lhh40lk4k240kh48k0k16l544hg033k594gh0l93682l86h35i1i36klhgjg90lkl54746i2k63481h37hilj3ikig52h0j80k5gj6h879lk6g8ll6k616966h59h42l24h824ljj77g6l03kg260i80h2g2k123251j22jg36k5j14781i6197929il9j03k16h4l1i78693g45k64j0jl0k58hj8493h76gj2202470ig12lh2llj2l5k5541k4h506i3hij81lg9i037jgk22i2l3j12j6l394h51ii2ll0022j292h8036767i835k47071jl9illl2gli06524g66984902j6j1h5g788019hl4712032977h41l0k36073ig880g2jgklh26k736180591639h4k2gjk9gl2071h685923kl5363l5lj0ll91901g12kk29hll4280h9h51870j721516j6g66i379g203932726h42g927h19733k237492l8j0jh148gl95048l5524j4j0l2445130153i802169102i14g586h8g64j2lk28492169li3292877837108k7i9557h3jk31il2lklg494lgl4j91jig614216ki68i2j140l1jg03lk16lljg039h21kj313h8jk79h99j2g89j327i7h9052h9hj71721jg927340956k6jl4i7k0430"
+    },
+    {
+      "key": "AppV6Dxs",
+      "name": "🎞️师兄丨高清",
+      "type": 3,
+      "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/aowu.png",
+      "api": "csp_AppV6Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "fbe15714a2413f05151fea6864509533510f3a0bb290dd40e3a2c65650bcf144db38b7a8945b776cf8933cb38e93a7d5d36988f5cbd33db73a1432681073eb45b4ce8224060c20ef229653f6b45f4e3a327a40e74bc51f710207b43b74b9bc3f9a2f70608e9c4783ddefc066662fb396be2d3c44dd2df48630d381176fd82e54565eccc47d944de1ff2bad4be0be043beaebd8fdcc0b6df5b1c2c3ec1f7d02b0e3f57e9af680cff3627e68d389379a8d3efdadb70e25135a3c473ddf249277ad12c9fa11002df91d7303627b06ac6bddd67ea082a758c6805628c06dcb22cafb109efad1389006e9c9518c7f85b2ab546315a1005adbf726ffe50d1f679fcf3b40e05f14698f8f5b6d1d829d6871d912056f1eee83cc1df1d9a126422781356e81cf24598a0216206fa59d2645a5812cc73e603190521454e77cc06c3640ea0799b83d60a3a0eaf5e28a7797ab77181d2b91aff50d9e1af419f10b839dc9fc61fb392ce138aaa6126f9eb3be09e94a87b96ac883c72c26d4b81d52de2696f40593b059ddd2279c354dc23d72a1f98150ec0be0dc0a5f6fdb93583b092c768b7fb8dd1bd43b59622810382fd21385606490610364fcd13e908f57a012f26e4cd4d1cee74c000bdc19edf27cb469f085c99cc9b8d9ae0f8b21473240c4a048a7dc8c6e5663258cc9184b1925ad8cb4e377f1cb78f06ee983263f47db396bb64d7118a2bb732d566408125f8ea1cb4158e6b70ac0bcff54ad45274772aaf96ca6183abfa8f0b3606404543823afc801edb734912f6777c30170a8fd0ddc9f69a3dc63885e23014f424e7a9fb8c29572d9d3004ea65a9dcf623f9c5c40abc52dc1c26e22ee9339b1ecdb0a3fe6e015cbeab7b7e091d8e7174fbbebdf82f2e1460ca94a61d3124272394619f9d84ac2b3be2fe70dfb9fa12fa8e153125327cb504b970380bf4bac66bcbf3fc3dd64855698ef82a4b0d88ef29e6bc89fe87a3354c941161e8c04a360402e906d30f095587c46ce26b9b7e1d15f7108cb01ff86c9b5a6c7bdfa9258d92602f04c6a77200754c0d4e8b1b5221e465ee36198100b53eb85eb59558016af86125162a95f24e329f87e371906d7f3fbed0f4994acd9a5b3fc2b206a5fcbc4316152f6fb6ac53b8dcffb65e2fde676f32cc9e24a2a954ade411b5ee92e809a86f8a8ac741aba21ce17a7dfb194a2ad36f5f44240669543e9051dc21c7a887d80f4a5cdfbab54903e7caaa2b7daa9ed00903093e33a95682a8fad5b5361a71a9f14f6917c964870994a6b9bca00732473bd6eed0c9e7d7a068d84cf395ae20639c545a1916786b27e85d5eb3189233da8e3361279a7d76ee6605fade068462ad8387a5be98a90d866807a98506d3efac36846329350701d3d0996f1c35009ac46493a76eccb702fd1762cd10bc50e22f3ea34c8902e2d92f07f9d519768e564c23fda9172b9b359bb8d3b508554bb4bf488f283c30f89a7320a542ba985b2df0ec20401a4ddf120f2cc427604c84d7b9340c323169cfd0a5e17d47991eb1bcc0d031297370df81f4ea242bdd5f4c76caac6f5651ba28683d2623ea5b988d3a5c938f2126bd9b49ee4579227ba7458a61bf7b2f88a0f6879242a1584593ca13d9915ec150110997cf3526d3dbdd70d9b1ef0f9c20ec0b7e394f9ae34d5b3b549805553434e9ad0baff73e8eb2dc58bcc38d2b377bb999dc5f940fed55a97951dfc5cda514c37dcdc88aff46de8617a66cfe1372c55e5bfc7d70634a51f39c665beb4bd95b7de9473da306ad9d3de48a301f01187864ff4682cb6852eb865aabb8bdb7de43daeedba1ebb755aba14d954d4a290fc6ac4e0af70577fe9850b631259eb63dfda69026955a6332fbbf84a63cba9d9253581771a61f2aa108c06e1e449637781d8c830b0e3ac20f10de7088175be90761afd66da37adead8a7241fcb4e2a571885bde71811daa240012cb6effe2fc7380027b3e85cf32c0dd40569775983451603ee7687273eeaad5825d58adec12b9489d5a22e8ba08978984f0274dc53537ecd285e2c12dafec32cd3419dde63a1639794bf70c102b6b53fa1fdff744d757c0d6c05a30a9b561821a8846ce9ef0f26"
+    },
+    {
+      "key": "七味影院",
+      "name": "🎞️七味丨高清",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "防走丢": "https://www.qwmkv.com/",
+        "主页url": "https://www.pkmp4.xyz/",
+        "二次截取": "class=\"pic-list clearfix\"&&</ul>",
+        "数组": "<li>&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "src=\"&&\"",
+        "副标题": "</i>&&</span>",
+        "链接": "href=\"&&\"",
+        "播放数组": "class=\"player\"&&</ul>",
+        "播放链接": "href=\"&&\"",
+        "播放列表": "<a&&a>",
+        "播放标题": ">&&</",
+        "线路数组": "<option&&option>",
+        "线路标题": "专线",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
+      }
+    },
+    {
+      "key": "可可影视",
+      "name": "🎞️可可丨高清",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#{{曲奇-c}}",
+        "特殊": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "曲-c": "https://www.kkys04.com/渲染目标:/name=\"t\".*?value=\"(.*?)\"/请求头(特殊)[工具:渲染#url]",
+        "曲奇-c": "{{曲-c}}[工具:返回{{奇-c}}]",
+        "奇-c": "{{响应头}}[工具:Cookie$⊕set-cookie=\\[截取\\]]",
+        "域名-c": "https://www.kkys04.com",
+        "主页url": "https://www.kkys04.com",
+        "数组": "<div class=\"module-item\">&&</a>",
+        "标题": "<div class=\"v-item-title\">&&</div>",
+        "副标题": "<span>&&</span>[不含:可可]",
+        "图片": "{{二-c}}+data-original=\"&&\"[不含:http]",
+        "链接": "href=\"&&\"",
+        "影片年代": "class=\"detail-tags-item\">&&</a>",
+        "影片地区": "class=\"detail-tags-item\">&&</a>[含序号:2]",
+        "影片类型": "class=\"detail-tags-item\">&&</a>[含序号:3]",
+        "导演": "导演*</div>&&</div>",
+        "主演": "演员*</div>&&</div>",
+        "简介": "detail-desc\">&&</div>",
+        "线路数组": "<span class=\"source-item-label&&/span>[不含:4K(]",
+        "线路标题": ">&&<",
+        "播放数组": "<div class=\"episode-list&&</div>",
+        "播放列表": "&&分割(<a)",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "const playSource = {*src*\"&&\"||TMDPPPP = '&&'[工具:解aes-Isu7fOAvI6!&IKpAbVdhf&^F]",
+        "过滤词": "baidu.com",
+        "搜索url": "{{域名-c}}/search?t={{曲-c}}&k={wd}",
+        "搜索二次截取": "<div class=\"search-result-list&&<div class=\"pagenation-box",
+        "搜索数组": "<a&&</a>",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "<div class=\"tags\">&&</div>",
+        "搜索图片": "{{二-c}}+data-original=\"&&\"[不含:http]",
+        "搜索链接": "href=\"&&\"",
+        "分类url": "{{域名-c}}/show/{cateId}-----{by}-{catePg}.html;;ad0m0s0xn",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
+        "排序": "综合$1#最新$2#最热$3#评分$4",
+        "二-c": "<script src=\"&&\"[包含:rdul][工具:源码#'截取'∬\"截取\"]"
+      }
     },
     {
       "key": "drpy2_  网飞猫",
@@ -871,48 +971,38 @@
       "ext": "https://cnb.cool/sky-007/js/-/git/raw/main/drpy_js/nsp.js"
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🎞️奇艺┃高清",
+      "key": "腾讯视频",
+      "name": "🎬腾讯｜视频",
       "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"
+      "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
+      "ext": "http://47.96.82.41:5188/svip/js/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"
     },
     {
-      "key": "drpy_js_优酷",
-      "name": "🎞️优酷┃高清",
+      "key": "优酷视频",
+      "name": "🎬优酷｜视频",
       "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js"
+      "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
+      "ext": "http://47.96.82.41:5188/svip/js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
     },
     {
-      "key": "drpy_js_腾云驾雾",
-      "name": "🎞️滕讯┃高清",
+      "key": "芒果视频",
+      "name": "🎬芒果｜视频",
       "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"
+      "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
+      "ext": "http://47.96.82.41:5188/svip/js/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
     },
     {
-      "key": "drpy_js_百忙无果",
-      "name": "🎞️芒果┃高清",
+      "key": "爱奇艺",
+      "name": "🎬奇异｜视频",
       "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"
+      "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
+      "ext": "http://47.96.82.41:5188/svip/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
     },
     {
       "key": "荐片",
       "name": "🧲荐片｜磁力",
       "api": "csp_JianPian",
       "type": 3
-    },
-    {
-      "key": "七味",
-      "name": "🧲七味｜磁力",
-      "type": 3,
-      "api": "csp_QnMp4",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.qwshow.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qwfun.com,https://www.qnnull.com,https://www.qnnull.com"
     },
     {
       "key": "New6v",
