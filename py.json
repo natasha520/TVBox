@@ -1,0 +1,388 @@
+{
+    "spider": "https://cnb.cool/sky-007/VOX/-/commit-assets/download/cfd06967e829d00ba527735baa293a7519e12768/vox.jar;md5;0a591a381676c3d72427a77faed45902",
+    "README": "http://rihou.cc:88/README.txt",
+    "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "lives": [
+        {
+       "name": "📡IPTV",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://cnb.cool/sky-007/tv/-/git/raw/main/iptv"
+        }
+    ],
+    "sites": [
+       {
+            "key": "豆瓣",
+            "name": "🌕️豆瓣｜片单",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+        {
+            "key": "csp_HongGuo",
+            "name": "🍎果子 | 短剧",
+            "type": 3,
+            "api": "csp_HongGuo",
+            "searchable": 1,
+            "changeable": 0
+        },
+    {
+      "key":"getav",
+      "name":"📀GetAV🪜[🔞]",
+      "type":3,
+      "api":"csp_getav",
+	  "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/getav.py"
+	},
+    {
+      "key": "Jable",
+      "name": "📀Jable🪜[🔞]",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/Jable.py"
+    },
+    {
+      "key": "Javmenu",
+      "name": "📀Javmenu🪜[🔞]",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/Javmenu.py"
+    },
+	{
+      "key": "catemby",
+      "name": "📀CatEmby🪜[🔞]",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/main/catemby.py"
+    },
+    {
+      "key": "Xvideos",
+      "name": "📀Xvideos🪜[🔞]",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/Xvideos.py"
+    },
+    {
+      "key": "Pornhub",
+      "name": "📀Pornhub🪜[🔞]",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/Pornhub.py"
+    },
+    {
+      "key": "黄剧",
+      "name": "📀黄剧[🔞]",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/js/refs/heads/main/%E9%BB%84%E5%89%A7.js"
+    },
+	{
+	  "key": "kbdj",
+	  "name": "📀狂飙🪜[🔞]",
+	  "type": 3,
+	  "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/%E7%8B%82%E9%A3%99%E7%9F%AD%E5%89%A7.py"
+    },
+	{
+	  "key": "青桔短剧",
+	  "name": "📀青桔🪜[🔞]",
+	  "type": 3,
+	  "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/%E9%9D%92%E6%A1%94%E7%9F%AD%E5%89%A7.py"
+	},
+    {
+	  "key": "hgdj",
+   	  "name": "📀黄果🪜[🔞]",
+	  "type": 3,
+	  "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/%E9%BB%84%E6%9E%9C%E7%9F%AD%E5%89%A7.py"
+	},
+    {
+	  "key": "wddj",
+   	  "name": "📀黄豆🪜[🔞]",
+	  "type": 3,
+	  "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%89%A7.py"
+    },
+    {
+	  "key": "91dj",
+   	  "name": "📀91短剧🪜[🔞]",
+	  "type": 3,
+	  "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/91%E7%9F%AD%E5%89%A7.py"
+    },
+	{
+	  "key": "51aw",
+	  "name": "📀51暗网🪜[🔞]",
+	  "type": 3,
+	  "api": "https://gh-proxy.org/raw.githubusercontent.com/natasha520/py/refs/heads/main/51%E6%9A%97%E7%BD%91.py"
+    },
+        {
+            "key": "短裤",
+            "name": "🐥短剧 | 搜索",
+            "type": 4,
+            "hide": 1,
+            "api": "https://so.yinpai.xyz/duanju.php?type=dquark"
+        }
+    ],
+    "doh": [
+        {
+            "name": "DNSPod",
+            "url": "https://doh.pub/dns-query",
+            "ips": [
+                "119.29.29.29",
+                "119.28.28.28",
+                "2400:da00::6666",
+                "2400:da00:1::6666"
+            ]
+        },
+        {
+            "name": "Alidns",
+            "url": "https://dns.alidns.com/dns-query",
+            "ips": [
+                "223.5.5.5",
+                "223.6.6.6",
+                "2400:3200::1",
+                "2400:3200:baba::1"
+            ]
+        },
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8",
+                "2001:4860:4860::8888",
+                "2001:4860:4860::8844"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "Tencent",
+            "url": "https://doh.pub/dns-query",
+            "ips": [
+                "1.12.12.12",
+                "120.53.53.53",
+                "2402:4e00::",
+                "2402:4e00:1::"
+            ]
+        },
+        {
+            "name": "360DNS",
+            "url": "https://doh.360.cn/dns-query",
+            "ips": [
+                "101.226.4.6",
+                "218.30.118.6",
+                "123.125.81.6",
+                "140.207.198.6"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141",
+                "2a10:50c0::ad1:ff",
+                "2a10:50c0::ad2:ff"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40",
+                "2001:67c:2354:2::64",
+                "2001:67c:2354:3::64"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-query",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112",
+                "2620:fe::fe",
+                "2620:fe::9"
+            ]
+        }
+    ],
+    "proxy": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "googleapis.com",
+        "youtube.com",
+        "www.youtube.com",
+        "m.youtube.com",
+        "youtu.be",
+        "ytimg.com",
+        "i.ytimg.com",
+        "ggpht.com",
+        "yt3.ggpht.com",
+        "youtubei.googleapis.com",
+        "gstatic.com",
+        "nhacmp3youtube.com",
+        "edgeware.tvb.com",
+        "cdn-2.ttvb.eu.org",
+        "yang-1989.eu.org",
+        "hinet.net",
+        "4gtv.tv",
+        "eu.org",
+        "15.204.105.50",
+        "7707bo.trustdeveloppment.com",
+        "1tv41.icu",
+        "lb59.xxip9.top",
+        "php.946985.filegear-sg.me",
+        "github.com",
+        "gcore.jsdelivr.net",
+        "iptv.852851.xyz",
+        "static.wikia.nocookie.net",
+        "static.hbo.com",
+        "cdn.jsdelivr.net",
+        "upload.wikimedia.org",
+        "get.perfecttv.net",
+        "tvlogo-282.pages.dev",
+        "logodownload.org",
+        "tvpnlogopus.samsungcloud.tv",
+        "provider-static.plex.tv",
+        "upload.wikimedia.org",
+        "tvpnlogopeu.samsungcloud.tv",
+        "schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com"
+    ],
+    "rules": [],
+    "headers": [
+        {
+            "host": "img\\d+.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img1.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img2.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img3.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img4.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img5.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img6.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img7.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img8.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img9.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        }
+    ],
+    "hosts": [],
+    "parses": [
+        {
+            "name": "测试解析",
+            "type": 1,
+            "url": "http://127.0.0.1:9978/proxy?do=voxjx&url="
+        },
+        {
+            "name": "手动解析①",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+        {
+            "name": "手动解析②",
+            "type": 0,
+            "url": "https://jx.nnxv.cn/tv.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+        {
+            "name": "手动解析③",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+        {
+            "name": "手动解析④",
+            "type": 0,
+            "url": "https://www.ckplayer.vip/jiexi/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+        {
+            "name": "手动解析⑤",
+            "type": 0,
+            "url": "https://okjx.cc/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        }
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu"
+    ],
+    "ads": [
+        "static-mozai.4gtv.tv",
+        "s3t3d2y8.afcdn.net"
+    ]
+}
